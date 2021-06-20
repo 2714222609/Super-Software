@@ -1,5 +1,5 @@
 # Super-Software
-Projects for software engineering
+Projects for Software Engineering Curriculum
 
-Zhaosuling WeChat mini-app
-member: Yue Tang, Jixiang Li, Dehua Liu, Fengjing Zhang, Peng Peng
+Zhaosuling WeChat Mini-App </br>
+Member: Yue Tang, Jixiang Li, Dehua Liu, Fengjing Zhang, Peng Peng
